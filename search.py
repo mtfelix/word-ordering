@@ -1,4 +1,4 @@
-
+# this is a scheme of this algo
 words =[]
 dependency = []
 
